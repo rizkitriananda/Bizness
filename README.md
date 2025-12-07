@@ -323,7 +323,7 @@ Kontribusi selalu diterima! Ikuti langkah berikut:
   <h3>✨ Built with ❤️ for Indonesian UMKM ✨</h3>
   <sub>Dikembangkan oleh <a href="https://github.com/username">Tim Bizness</a></sub>
   <br>
-  <sub>🌐 Live Demo: <a href="https://bizness-chi.vercel.app/">bizness-chi.vercel.app</a></sub>
+  <sub>🌐 Live Demo: <a href="https://bizness-delta.vercel.app/">bizness-delta.vercel.app</a></sub>
   <br>
   <sub>📧 Contact: hello@bizness.id</sub>
   <br><br>
