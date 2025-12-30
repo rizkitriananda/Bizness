@@ -27,7 +27,7 @@ import { Slider } from "@/components/ui/slider";
 import { toast } from "@/hooks/use-toast";
 
 // --- KONFIGURASI API ---
-const API_BASE_URL = "https://6b1ed58c16d3.ngrok-free.app";
+const API_BASE_URL = "https://f3f8fb0f5a9e.ngrok-free.app";
 
 // Utility Functions
 const formatRp = (value: number) => {

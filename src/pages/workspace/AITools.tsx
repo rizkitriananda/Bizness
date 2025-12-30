@@ -23,7 +23,7 @@ import { toast } from "@/hooks/use-toast";
 // --- KONFIGURASI API ---
 // Ganti URL ini dengan URL NGROK Anda jika backend berjalan di Google Colab/Jupyter
 // Contoh: "https://xxxx-xx-xx-xx-xx.ngrok-free.app"
-const API_BASE_URL = "https://6b1ed58c16d3.ngrok-free.app";
+const API_BASE_URL = "https://f3f8fb0f5a9e.ngrok-free.app";
 
 // --- Types ---
 interface Message {

@@ -24,7 +24,7 @@ import { toast } from "@/hooks/use-toast";
 import { cn } from "@/lib/utils";
 
 // --- KONFIGURASI API ---
-const API_BASE_URL = "https://6b1ed58c16d3.ngrok-free.app";
+const API_BASE_URL = "https://f3f8fb0f5a9e.ngrok-free.app";
 
 // --- Types ---
 interface OCRItem {
